@@ -2,6 +2,8 @@
 bin/
 /db
 .eclipse
+.idea
+.g8
 /lib/
 /logs/
 /modules
